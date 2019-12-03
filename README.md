@@ -10,15 +10,15 @@ Python packages used in this project
  ## Software Requirements
 * pandas
 * numpy
-seaborn 
-matplotlib
-torch
-scipy
-tqdm
-sklearn
-eli5
-graphviz
-pdpbox
-catboost
-IPython
+* seaborn 
+* matplotlib
+* torch
+* scipy
+* tqdm
+* sklearn
+* eli5
+* graphviz
+* pdpbox
+* catboost
+* IPython
 
