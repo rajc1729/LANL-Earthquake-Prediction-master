@@ -7,11 +7,18 @@ Selections of the full dataset's earthquakes and visulisations of the earthquake
 Software Requirements
 Python packages used in this project
 
-pandas
-numpy
+ ## Software Requirements
+* pandas
+* numpy
+seaborn 
 matplotlib
-datetime
-IPython
+torch
+scipy
+tqdm
 sklearn
-dateutil
-mpl_toolkits.basemap
+eli5
+graphviz
+pdpbox
+catboost
+IPython
+
