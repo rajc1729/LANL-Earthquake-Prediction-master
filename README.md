@@ -1,8 +1,9 @@
-# LANL-Earthquake-Prediction-master
-Earthquake prediction using a supervised learner.
+LANL-Earthquake-Prediction-master
+
+## Dataset
 Dataset
-The full dataset can be download from here. (At the time of uploading this, the file size is 117MB)
-Selections of the full dataset's earthquakes and visulisations of the earthquakes can be found here.
+The full dataset can be download from [here](https://www.kaggle.com/c/LANL-Earthquake-Prediction/data). (At the time of uploading this, the file size is 2.3GB)  
+
 
 Software Requirements
 Python packages used in this project
