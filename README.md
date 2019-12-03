@@ -1,4 +1,4 @@
-##LANL-Earthquake-Prediction-master
+## LANL-Earthquake-Prediction-master
 
 ## Dataset
 Dataset
