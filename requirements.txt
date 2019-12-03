@@ -1,0 +1,12 @@
+pandas
+numpy
+seaborn 
+matplotlib
+torch
+scipy
+tqdm
+sklearn
+eli5
+graphviz
+pdpbox
+catboost
