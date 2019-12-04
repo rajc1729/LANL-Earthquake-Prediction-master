@@ -10,3 +10,4 @@ eli5
 graphviz
 pdpbox
 catboost
+SHAP
